@@ -7,4 +7,17 @@ describe('Test Suite', () => {
       expect(result).toEqual(4);
     });
   });
+
+  describe('subtractNumbers', () => {
+
+  });
+
+  describe('makeAjaxCall', () => {
+    // remember to mock `node-fetch` with `jest.mock`
+    // an example can be found here: https://stackoverflow.com/questions/53484219/how-can-i-mock-fetch-function-in-node-js-by-jest
+  });
+
+  describe('generateId', () => {
+
+  });
 });
