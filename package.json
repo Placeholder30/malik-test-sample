@@ -1,0 +1,15 @@
+{
+  "name": "malik-test-sample",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:BolajiOlajide/malik-test-sample.git",
+  "author": "Bolaji Olajide",
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^27.2.0",
+    "node-fetch": "^3.0.0"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
